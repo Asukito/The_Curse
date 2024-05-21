@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Uni work/The_Curse/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/Uni work/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/R9/AT3DYVOP0O1P9BKAVBQRX8.uasset"
+			]
+		}
+	]
+}
