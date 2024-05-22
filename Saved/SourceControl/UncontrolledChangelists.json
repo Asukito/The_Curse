@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/unreal/the curse/The_Curse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/enemyBP.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/BT_Enemy.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/BPI_Enemy.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/BB_enemy.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/AIC_enemy.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/BPenemy.uasset",
+				"E:/unreal/the curse/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/R9/AT3DYVOP0O1P9BKAVBQRX8.uasset",
+				"E:/unreal/the curse/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0O/XJHBFIFTQ36XKJ2URW4RQK.uasset",
+				"E:/unreal/the curse/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WL/6VNTR87XK9BQ3YGB2Q3Q6K.uasset",
+				"E:/unreal/the curse/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/EK/17ALHSXQ9GIN9COCND38U4.uasset",
+				"E:/unreal/the curse/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QB/ZI23KRY6F7PY1RKAMJH6G8.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/tasks/patrolBP.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/PatrolrouteBP.uasset",
+				"E:/unreal/the curse/The_Curse/Content/enemy/ai/tasks/HasPatrolRoute.uasset",
 				"E:/Uni work/The_Curse/Content/StarterContent/Audio/Collapse01.uasset",
 				"E:/Uni work/The_Curse/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/R9/AT3DYVOP0O1P9BKAVBQRX8.uasset"
 			]
