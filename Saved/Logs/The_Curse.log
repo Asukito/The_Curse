@@ -1258,3 +1258,32 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.24-07.02.50:222][981]LogEditorTransaction: Undo Create Reroute Node
 [2024.05.24-07.04.45:970][582]BlueprintLog: New page: Compile Optionsmenu_WB
 [2024.05.24-07.04.46:040][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.24-07.05.57:790][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.24-07.05.57:793][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/MainHouseLevel/7/4T/CSADNQ3PGPBSIC4W7BLI9U_Auto1
+[2024.05.24-07.05.57:793][891]LogSavePackage: Moving 'E:/unreal/the curse/The_Curse/Saved/CSADNQ3PGPBSIC4W7BLI9U_Auto1DFE6BD5B4E6A2B39781BAA9935A19F0C.tmp' to 'E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/MainHouseLevel/7/4T/CSADNQ3PGPBSIC4W7BLI9U_Auto1.uasset'
+[2024.05.24-07.05.57:794][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainHouseLevel' took 0.025
+[2024.05.24-07.05.57:794][891]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2024.05.24-07.05.57:794][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.05.24-07.05.57:838][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.05.24-07.05.57:838][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.05.24-07.05.57:860][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2024.05.24-07.05.57:860][891]LogSavePackage: Moving 'E:/unreal/the curse/The_Curse/Saved/BP_FirstPersonCharacter_Auto15567F3CE43FADA0C6DC899A2BB96B539.tmp' to 'E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2024.05.24-07.05.57:861][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Door] ([2] browsable assets)...
+[2024.05.24-07.05.57:874][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door.BP_Door]
+[2024.05.24-07.05.57:874][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2024.05.24-07.05.57:874][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/Blueprints/BP_Door_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.24-07.05.57:880][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Door_Auto1
+[2024.05.24-07.05.57:880][891]LogSavePackage: Moving 'E:/unreal/the curse/The_Curse/Saved/BP_Door_Auto1FBB7DDB041B232A6BFB46FB03B307F6C.tmp' to 'E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/Blueprints/BP_Door_Auto1.uasset'
+[2024.05.24-07.05.57:880][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PickLocking/Picklock_Minigame] ([2] browsable assets)...
+[2024.05.24-07.05.57:894][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PickLocking/Picklock_Minigame.Picklock_Minigame]
+[2024.05.24-07.05.57:894][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/PickLocking/Picklock_Minigame]
+[2024.05.24-07.05.57:894][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PickLocking/Picklock_Minigame" FILE="E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/PickLocking/Picklock_Minigame_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.24-07.05.57:908][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PickLocking/Picklock_Minigame_Auto1
+[2024.05.24-07.05.57:908][891]LogSavePackage: Moving 'E:/unreal/the curse/The_Curse/Saved/Picklock_Minigame_Auto150F6B0C349D46D6811E4ADAC42F4DC62.tmp' to 'E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/PickLocking/Picklock_Minigame_Auto1.uasset'
+[2024.05.24-07.05.57:909][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Optionsmenu_WB] ([2] browsable assets)...
+[2024.05.24-07.05.57:912][891]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Optionsmenu_WB.Optionsmenu_WB]
+[2024.05.24-07.05.57:912][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Optionsmenu_WB]
+[2024.05.24-07.05.57:912][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Optionsmenu_WB" FILE="E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/UI/Optionsmenu_WB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.24-07.05.57:935][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Optionsmenu_WB_Auto1
+[2024.05.24-07.05.57:935][891]LogSavePackage: Moving 'E:/unreal/the curse/The_Curse/Saved/Optionsmenu_WB_Auto12636F9974A419EB7430A0484A94064DE.tmp' to 'E:/unreal/the curse/The_Curse/Saved/Autosaves/Game/UI/Optionsmenu_WB_Auto1.uasset'
+[2024.05.24-07.05.57:936][891]LogFileHelpers: Auto-saving content packages took 0.142
